@@ -1,0 +1,12 @@
+#main{
+  background-color: black;
+  text-align: center;
+  border-radius: 20px;
+  width: 80%;
+  color: whitesmoke;
+}
+
+p{
+  text-align: left;
+  font-style: 22px;
+}
